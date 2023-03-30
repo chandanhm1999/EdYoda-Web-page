@@ -14,7 +14,7 @@ const About = () => {
         </div>
         <div>
           <div className='play_19'><QuestionCircleOutlined /></div>
-          <a href='/datatypes' className='main_29'>Quize Data Types</a>
+          <a href='/datatypes' className='main_29'>Quiz: Data Types</a>
         </div>
         <div>
           <div className='play_29'><CodepenCircleOutlined /></div>
