@@ -7,7 +7,7 @@ There are three pages:
 Below are the functionalities are implemented.
 
 Homepage:
-1. Open and Close the Homepage Dropdown
+1. Open and Close the Homepage Dropdown!
 2. When clicked on the Homepage Dropdown options, highlighted the selected code and show it on Blue Bar which Says Data Scientist Program
 3. Rest of the data is static on Homepage
 
