@@ -1,0 +1,14 @@
+.main_video{
+    position: relative;
+    left: 200px;
+    top: 50px;
+    width: 1000px;
+}
+.inst_video1{
+    position: relative;
+    left: 680px;
+    top: 40px;
+    transform: uppercase;
+    font-weight: 900;
+    color: grey;
+}
