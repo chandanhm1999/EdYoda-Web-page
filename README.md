@@ -1,3 +1,5 @@
+Project Hosted Link: https://edyoda-web-page-awhhc6fce-chandanhm1999.vercel.app/
+
 Project Details:
 There are three pages:
 1. Homepage
