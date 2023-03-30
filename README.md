@@ -4,6 +4,25 @@ There are three pages:
 2. Modules Page
 3. Instructor Page
 
+Below are the functionalities are implemented.
+
+Homepage:
+1. Open and Close the Homepage Dropdown
+2. When clicked on the Homepage Dropdown options, highlighted the selected code and show it on Blue Bar which Says Data Scientist Program
+3. Rest of the data is static on Homepage
+
+Module Page:
+1. There are 3 types: Topic, Quiz, Assignment. the different symbols to show each active item on left vertical bar
+2. When clicked on Topic show the right-side content like shown in Module - Topic Screenshot
+3. When clicked on Quiz show the right-side content like shown in Module - Quiz Screenshot
+4. When clicked on Assignment show the right-side content like shown in Module - Assignment Screenshot
+
+Instructor Page:
+There is no functionality here. This page is just to be added on route
+& Placed a Instructor video!
+
+![edyoda](https://user-images.githubusercontent.com/109410990/228847476-713121c7-c874-4cfd-b677-752c4f5c6cd2.png)
+
 
 # Getting Started with Create React App
 
